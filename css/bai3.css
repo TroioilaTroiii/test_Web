@@ -1,0 +1,41 @@
+body{
+    width: 600px;
+    height: 1500px;
+    margin: 0 auto;
+}
+.mau{
+    color: red;
+}
+i{
+    background-color: orange;
+}
+.bth{
+    float: right;
+    width: 100%;
+    background-color: orangered;
+    text-align: right;
+    width: 100%;
+}
+h2{
+    text-align: center;
+    color: orange;
+    border-style: double;
+    width: 100%;
+    font-size: large;
+}
+.doan1{
+    text-align: left;
+}
+.in{
+    font-size: 50px;
+    color: brown;
+}
+.doan2{
+    float: left;
+    text-align: right;
+}
+.chubth{
+    color: white;
+    font-size: 19px;
+    font-weight: bold;
+}
